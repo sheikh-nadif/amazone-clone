@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    margin-left: 100px;
+    padding: 15px 0;
+    border-bottom: 1px solid lightgray;
+}
+.product-info{
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.product-info h4{
+    color: rgb(35, 35, 248);
+}
+
+.product-info .stock{
+    background-color: red;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    padding: 2px;
+}
+
